@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+NICKNAME:bucque fams
+FN:prenom nom
+N:nom;prenom;;;
+ORG:proms
+EMAIL;TYPE=internet:mail
+TEL;TYPE=CELL:tel
+BDAY;VALUE=text:bday
+NOTE:bouls
+END:VCARD
+
+
